@@ -13,4 +13,4 @@ Some of my recent projects and achievements include:
 
 - Collaborating with **Sony Corporation** and **Texas Instruments** to design and create a field-portable sensor platform to measure sea ice thickness in polar regions as a part of my final year individual thesis project
 
-I am currently seeking a graduate role commencing in 2023, so please feel free to connect and reach out about any interesting opportunities in engineering or technology!
+I am currently seeking a **graduate role** commencing in **2023**, so please feel free to connect and reach out about any interesting opportunities in engineering or technology!
