@@ -4,7 +4,7 @@
  [![Linkedin Badge](https://img.shields.io/badge/-ishaanghatak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishaanghatak/)](https://www.linkedin.com/in/ishaanghatak/)
  
 ## About Me
-As an engineer, I aspire to make the world a smarter, healthier, and more connected place. Currently, I am in my final year of the BEng programme in **Electrical and Electronic Engineering** at the **University of Manchester**, where I have developed skills including hardware design, programming, signal progressing, and team leadership.
+As an engineer, I aspire to make the world a smarter, healthier, and more connected place. I recently graduated from the BEng programme in **Electrical and Electronic Engineering** at the **University of Manchester**, where I have developed skills including hardware design, programming, signal progressing, and team leadership.
 
 Some of my recent projects and achievements include:
 - Interning at **Meta**, within the MicroLED Test Team at **Reality Labs**, to build and qualify a far-field, wafer-level beam profile measurement system to support the development of next-generation AR and VR displays
@@ -13,4 +13,4 @@ Some of my recent projects and achievements include:
 
 - Collaborating with **Sony Corporation** and **Texas Instruments** to design and create a field-portable sensor platform to measure sea ice thickness in polar regions as a part of my final year individual thesis project
 
-I am currently seeking a **graduate role** commencing in **2023**, so please feel free to connect and reach out about any interesting opportunities in engineering or technology!
+Please feel free to connect and reach out about any interesting projects or opportunities!
