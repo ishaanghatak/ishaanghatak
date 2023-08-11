@@ -11,4 +11,4 @@ Some of my recent projects and achievements include:
 - Leading the **Electronics and Software Team** at **Hyperloop Manchester**, a student-led engineering project with 80+ members, to research futuristic transport technologies and develop pod prototypes. *(C, C++, PlatformIO, Teensy 4.1)*
 - Collaborating with **Sony** and **Texas Instruments** to deploy a field-portable embedded system to measure sea ice thickness and environmental conditions in the Arctic for my final year individual project. *(Arduino, C++, Spresense)*
 
-Please feel free to connect and reach out about anything interesting related to engineering, innovation, or technology!
+Please feel free to connect and reach out about anything interesting related to **engineering**, **innovation**, or **technology**!
